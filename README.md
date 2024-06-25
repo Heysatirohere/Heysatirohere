@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align=center>👋 Hi. I'm <a href="">Sátiro Gabriel</a> </h1>
 
-<!--
-**Heysatirohere/Heysatirohere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center>I'll be the GOAT someday</p>
 
-Here are some ideas to get you started:
+I started programming in 2022 doing random things in Unity Game Engine and 2023.2 I joined the Faculty of Computer Science at FECAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've done few projects there but nothing awesome (yet)
+
+
+
+<div align=center>
+  <h3>Tools I use:</h3>
+  <img align=center width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align=center width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align=center width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align=center width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align=center width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align=center width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <br>
+</div>
+
+<hr>
+
+
+
+
