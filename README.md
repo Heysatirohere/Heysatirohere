@@ -4,7 +4,6 @@
 🎓 Ciência da Computação @ FECAP (2023 - 2027)  
 💡 Explorando: Desenvolvimento Web, Mobile & Análise de Dados  
 🚀 Projetos com React, Python, Android, Azure, Streamlit  
-🏆 Certificado de Mérito Acadêmico - 2024.2  
 </p>
 
 ---
